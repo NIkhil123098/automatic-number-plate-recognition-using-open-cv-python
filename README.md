@@ -24,6 +24,8 @@ After running , You get the gui interface describing to select the image or vide
 
 b) Video Option , it divides video into photo frames and detects all vehicle numbers existed in the video. Lists the all numbers paid amount/tax have to be pay amound in the interface.
 
+At interface we can even download the particular person details,pending payment,id number in a pdf format as shown in the demo .pdf file
+
 
 
 
